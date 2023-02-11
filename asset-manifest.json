@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/finn.grunicke/static/css/main.a6465a70.css",
+    "main.js": "/finn.grunicke/static/js/main.38e92db9.js",
+    "index.html": "/finn.grunicke/index.html",
+    "main.a6465a70.css.map": "/finn.grunicke/static/css/main.a6465a70.css.map",
+    "main.38e92db9.js.map": "/finn.grunicke/static/js/main.38e92db9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6465a70.css",
+    "static/js/main.38e92db9.js"
+  ]
+}
